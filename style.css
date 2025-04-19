@@ -371,6 +371,7 @@ body {
 body {
   font-family: 'Inter';
   background-image: url(Assets/Background.png);
+  background-repeat: no-repeat;
 }
 
 .header__img {
