@@ -474,6 +474,7 @@ body {
 }
 
 .card__title {
+  max-width: calc(100dvw * 0.4);
   line-height: 1.4;
   font-size: 1.2rem;
   font-weight: 600;
