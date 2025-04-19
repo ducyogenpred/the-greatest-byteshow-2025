@@ -383,7 +383,7 @@ body {
 
 .header__logo {
   position: absolute;
-  top: calc(100dvh * 0.12);
+  top: calc(100dvh * 0.11);
   left: calc(100dvw * 0.5);
   transform: translateX(-50%);
 }
@@ -405,7 +405,7 @@ body {
   gap: calc(100dvw * 0.05);
   position: absolute;
   left: calc(100% * 0.5);
-  top: calc(100% * 0.28);
+  top: calc(100% * 0.29);
   transform: translateX(-50%);
 }
 
