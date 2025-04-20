@@ -47,32 +47,22 @@
     "file": "assets/food-btn.wp4hMQqz.png",
     "src": "Assets/food-btn.png"
   },
-  "_style.ClFt_CVk.css": {
-    "file": "assets/css/style.ClFt_CVk.css",
-    "src": "_style.ClFt_CVk.css"
+  "_script.BodkrpkC.js": {
+    "file": "assets/js/script.BodkrpkC.js",
+    "name": "script",
+    "css": [
+      "assets/css/script.ClFt_CVk.css"
+    ],
+    "assets": [
+      "assets/Background.CNnTkJvV.png"
+    ]
+  },
+  "_script.ClFt_CVk.css": {
+    "file": "assets/css/script.ClFt_CVk.css",
+    "src": "_script.ClFt_CVk.css"
   },
   "assets/Background.png": {
     "file": "assets/Background.CNnTkJvV.png",
     "src": "assets/Background.png"
-  },
-  "index.html": {
-    "file": "assets/js/index.DEkunfeK.js",
-    "name": "index",
-    "src": "index.html",
-    "isEntry": true,
-    "css": [
-      "assets/css/style.ClFt_CVk.css"
-    ],
-    "assets": [
-      "assets/Background.CNnTkJvV.png",
-      "assets/Header.FgRe2enA.png",
-      "assets/Logo.Bv1rth3n.png",
-      "assets/food-btn.wp4hMQqz.png",
-      "assets/drink-btn-dark.SWreqwUZ.png",
-      "assets/Food01.ClcY2SqZ.png",
-      "assets/Food02.DMFgrcRE.png",
-      "assets/Food05.D3nYmesz.png",
-      "assets/Food03.CFK8Xbhw.png"
-    ]
   }
 }
