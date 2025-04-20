@@ -47,19 +47,16 @@
     "file": "assets/food-btn.wp4hMQqz.png",
     "src": "Assets/food-btn.png"
   },
-  "_script.ApttZNo4.js": {
-    "file": "assets/js/script.ApttZNo4.js",
+  "_script.Dl9tDH_K.css": {
+    "file": "assets/css/script.Dl9tDH_K.css",
+    "src": "_script.Dl9tDH_K.css"
+  },
+  "_script.FU0BBsYC.js": {
+    "file": "assets/js/script.FU0BBsYC.js",
     "name": "script",
     "css": [
-      "assets/css/script.DE-qlsp3.css"
-    ],
-    "assets": [
-      "assets/Background.CNnTkJvV.png"
+      "assets/css/script.Dl9tDH_K.css"
     ]
-  },
-  "_script.DE-qlsp3.css": {
-    "file": "assets/css/script.DE-qlsp3.css",
-    "src": "_script.DE-qlsp3.css"
   },
   "assets/Background.png": {
     "file": "assets/Background.CNnTkJvV.png",
