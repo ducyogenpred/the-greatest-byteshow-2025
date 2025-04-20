@@ -1,0 +1,78 @@
+{
+  "Assets/Drink01.png": {
+    "file": "assets/Drink01.CBZrnu2h.png",
+    "src": "Assets/Drink01.png"
+  },
+  "Assets/Drink02.png": {
+    "file": "assets/Drink02.C5WnxMli.png",
+    "src": "Assets/Drink02.png"
+  },
+  "Assets/Food01.png": {
+    "file": "assets/Food01.ClcY2SqZ.png",
+    "src": "Assets/Food01.png"
+  },
+  "Assets/Food02.png": {
+    "file": "assets/Food02.DMFgrcRE.png",
+    "src": "Assets/Food02.png"
+  },
+  "Assets/Food03.png": {
+    "file": "assets/Food03.CFK8Xbhw.png",
+    "src": "Assets/Food03.png"
+  },
+  "Assets/Food05.png": {
+    "file": "assets/Food05.D3nYmesz.png",
+    "src": "Assets/Food05.png"
+  },
+  "Assets/Header.png": {
+    "file": "assets/Header.FgRe2enA.png",
+    "src": "Assets/Header.png"
+  },
+  "Assets/Logo.png": {
+    "file": "assets/Logo.Bv1rth3n.png",
+    "src": "Assets/Logo.png"
+  },
+  "Assets/drink-btn-dark.png": {
+    "file": "assets/drink-btn-dark.SWreqwUZ.png",
+    "src": "Assets/drink-btn-dark.png"
+  },
+  "Assets/drink-btn.png": {
+    "file": "assets/drink-btn.CJBUZfvm.png",
+    "src": "Assets/drink-btn.png"
+  },
+  "Assets/food-btn-dark.png": {
+    "file": "assets/food-btn-dark.BAYaCW2R.png",
+    "src": "Assets/food-btn-dark.png"
+  },
+  "Assets/food-btn.png": {
+    "file": "assets/food-btn.wp4hMQqz.png",
+    "src": "Assets/food-btn.png"
+  },
+  "_style.ClFt_CVk.css": {
+    "file": "assets/css/style.ClFt_CVk.css",
+    "src": "_style.ClFt_CVk.css"
+  },
+  "assets/Background.png": {
+    "file": "assets/Background.CNnTkJvV.png",
+    "src": "assets/Background.png"
+  },
+  "index.html": {
+    "file": "assets/js/index.DEkunfeK.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/css/style.ClFt_CVk.css"
+    ],
+    "assets": [
+      "assets/Background.CNnTkJvV.png",
+      "assets/Header.FgRe2enA.png",
+      "assets/Logo.Bv1rth3n.png",
+      "assets/food-btn.wp4hMQqz.png",
+      "assets/drink-btn-dark.SWreqwUZ.png",
+      "assets/Food01.ClcY2SqZ.png",
+      "assets/Food02.DMFgrcRE.png",
+      "assets/Food05.D3nYmesz.png",
+      "assets/Food03.CFK8Xbhw.png"
+    ]
+  }
+}
