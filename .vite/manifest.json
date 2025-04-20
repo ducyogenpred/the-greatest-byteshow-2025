@@ -47,22 +47,26 @@
     "file": "assets/food-btn.wp4hMQqz.png",
     "src": "Assets/food-btn.png"
   },
-  "_script.BodkrpkC.js": {
-    "file": "assets/js/script.BodkrpkC.js",
+  "_script.COBbgKme.css": {
+    "file": "assets/css/script.COBbgKme.css",
+    "src": "_script.COBbgKme.css"
+  },
+  "_script.CXgNbxtU.js": {
+    "file": "assets/js/script.CXgNbxtU.js",
     "name": "script",
     "css": [
-      "assets/css/script.ClFt_CVk.css"
+      "assets/css/script.COBbgKme.css"
     ],
     "assets": [
       "assets/Background.CNnTkJvV.png"
     ]
   },
-  "_script.ClFt_CVk.css": {
-    "file": "assets/css/script.ClFt_CVk.css",
-    "src": "_script.ClFt_CVk.css"
-  },
   "assets/Background.png": {
     "file": "assets/Background.CNnTkJvV.png",
     "src": "assets/Background.png"
+  },
+  "assets/icon.png": {
+    "file": "assets/icon.Dy24z2YG.png",
+    "src": "assets/icon.png"
   }
 }
