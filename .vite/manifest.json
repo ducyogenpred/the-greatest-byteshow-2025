@@ -47,15 +47,15 @@
     "file": "assets/food-btn.wp4hMQqz.png",
     "src": "Assets/food-btn.png"
   },
-  "_script.Dl9tDH_K.css": {
-    "file": "assets/css/script.Dl9tDH_K.css",
-    "src": "_script.Dl9tDH_K.css"
+  "_script.CSBD-Z3t.css": {
+    "file": "assets/css/script.CSBD-Z3t.css",
+    "src": "_script.CSBD-Z3t.css"
   },
-  "_script.FU0BBsYC.js": {
-    "file": "assets/js/script.FU0BBsYC.js",
+  "_script.GwZZOGf9.js": {
+    "file": "assets/js/script.GwZZOGf9.js",
     "name": "script",
     "css": [
-      "assets/css/script.Dl9tDH_K.css"
+      "assets/css/script.CSBD-Z3t.css"
     ]
   },
   "assets/Background.png": {
