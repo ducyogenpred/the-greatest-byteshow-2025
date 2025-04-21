@@ -1,4 +1,12 @@
 {
+  "Assets/Drink01.png": {
+    "file": "assets/Drink01.CBZrnu2h.png",
+    "src": "Assets/Drink01.png"
+  },
+  "Assets/Drink02.png": {
+    "file": "assets/Drink02.C5WnxMli.png",
+    "src": "Assets/Drink02.png"
+  },
   "Assets/Food01.png": {
     "file": "assets/Food01.ClcY2SqZ.png",
     "src": "Assets/Food01.png"
@@ -26,6 +34,10 @@
   "Assets/drink-btn-dark.png": {
     "file": "assets/drink-btn-dark.hz071l2Y.png",
     "src": "Assets/drink-btn-dark.png"
+  },
+  "Assets/drink-btn.png": {
+    "file": "assets/drink-btn.BRgWehT6.png",
+    "src": "Assets/drink-btn.png"
   },
   "Assets/food-btn-dark.png": {
     "file": "assets/food-btn-dark.BWmu09jJ.png",
