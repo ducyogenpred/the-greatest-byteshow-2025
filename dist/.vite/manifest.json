@@ -63,15 +63,15 @@
     "file": "assets/games02.BMemyg8l.png",
     "src": "Assets/games02.png"
   },
-  "_script.BYAZsph8.css": {
-    "file": "assets/css/script.BYAZsph8.css",
-    "src": "_script.BYAZsph8.css"
+  "_script.BC-nXRnE.css": {
+    "file": "assets/css/script.BC-nXRnE.css",
+    "src": "_script.BC-nXRnE.css"
   },
-  "_script.DWPU676J.js": {
-    "file": "assets/js/script.DWPU676J.js",
+  "_script.CfR1SRRS.js": {
+    "file": "assets/js/script.CfR1SRRS.js",
     "name": "script",
     "css": [
-      "assets/css/script.BYAZsph8.css"
+      "assets/css/script.BC-nXRnE.css"
     ]
   },
   "assets/Background.png": {
