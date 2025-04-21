@@ -371,6 +371,7 @@ body {
 body {
   font-family: 'Inter';
   background: fixed;
+  background-color: black;
 }
 
 .header__img {
@@ -379,6 +380,7 @@ body {
 }
 
 .header__logo {
+  width: 58dvw;
   position: absolute;
   top: calc(100dvh * 0.11);
   left: calc(100dvw * 0.5);
@@ -397,9 +399,9 @@ body {
 }
 
 .btn__wrapper {
-  width: 75dvw;
+  width: 90dvw;
   display: flex;
-  gap: calc(100dvw * 0.05);
+  gap: calc(100dvw * 0.025);
   position: absolute;
   left: calc(100% * 0.5);
   top: calc(100% * 0.29);

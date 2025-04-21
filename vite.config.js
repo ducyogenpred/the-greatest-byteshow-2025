@@ -11,7 +11,8 @@ export default defineConfig({
     rollupOptions: {
       input: {
         index: resolve(__dirname, 'src/index.html'),
-        about: resolve(__dirname, 'src/indexindex.html'),
+        indexindex: resolve(__dirname, 'src/indexindex.html'),
+        indexindex: resolve(__dirname, 'src/indexindexindex.html'),
       },
       output: {
         entryFileNames: 'assets/js/[name].[hash].js',
